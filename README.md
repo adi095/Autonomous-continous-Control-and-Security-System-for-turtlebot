@@ -1,4 +1,4 @@
-# TurtleBot Autonomous Navigation and Security Enhancement System
+# Autonomous continous control and security system for turtlebot
 
 This project is an integrated system for **continuous control navigation** and **real-time anomaly detection** on the **TurtleBot3** platform. The system uses **deep reinforcement learning algorithms (DDPG and SAC)** for autonomous navigation and a **DBSCAN-based anomaly detection model** to enhance robot security by identifying sensor data anomalies from **LiDAR** and **IMU** sensors. Both systems share sensor data inputs from the TurtleBot3's **LiDAR** and **IMU** sensors in real time.
 
